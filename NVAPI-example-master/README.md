@@ -4,7 +4,8 @@ Visual Studio 2015
 
 Based on the selection of the user to change the Nvidia Driver Setting for Viz Engine or Viz Artist accordingly.
 
-[[https://github.com/davidhao2046/NvidiaDriverSettingTool_4_VizEngine/blob/master/NVIDIADriverSettingTool.png|alt=NVIDIADriverSettingToo]]
+[[https://github.com/davidhao2046/NvidiaDriverSettingTool_4_VizEngine/blob/master/NVIDIADriverSettingTool.png
+|alt=NVIDIADriverSettingToo]]
 
 TODO List:
 
