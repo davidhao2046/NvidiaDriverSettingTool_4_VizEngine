@@ -1,7 +1,10 @@
-# NVAPI-example
-NVAPI-example for Visual Studio 2015
+# NvidiaDriverSettingTool_4_VizEngine
 
-Shows how to enumerate NVIDIA driver settings and change them.
+Visual Studio 2015
+
+Based on the selection of the user to change the Nvidia Driver Setting for Viz Engine or Viz Artist accordingly.
+
+
 
 _Source links:_
 
